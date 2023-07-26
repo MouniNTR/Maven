@@ -20,7 +20,9 @@
   </build>
 </project>
 
+RUN Instruction
+
+
 CMD Instruction
 
 Port number 8080 
-
