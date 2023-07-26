@@ -19,3 +19,5 @@
     <finalName>01-maven-web-app</finalName>
   </build>
 </project>
+
+Port number 8080 
