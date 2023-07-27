@@ -20,9 +20,6 @@
   </build>
 </project>
 
-RUN Instruction
-
-
-CMD Instruction
+MAINTAINER MOUNIKA
 
 Port number 8080 
